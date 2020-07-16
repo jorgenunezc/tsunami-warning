@@ -1,0 +1,14 @@
+/dataset
+.ipynb_checkpoints/
+*.json
+__pycache__/
+*.pyc
+prefect-env/
+/CodigosEjemplos
+__init__.py
+*.nc
+*.grd
+*.png
+*.jpg
+*.tif
+*.zip
