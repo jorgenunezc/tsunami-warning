@@ -17,3 +17,5 @@ Este repositorio contiene códigos escritos en jupyter notebook para la visualiz
 - **boyas_3.0 :** Se utiliza en la ubicación de las distintas boyas virtuales ya sea en mar o tierra, generando un archivo .dat con las coordenadas geográficas de estas y una imagen con las boyas enumeradas.
 
 ### Análisis
+
+- **crear_dataframe :** Crea dataframe con las boyas y escenarios especificados, se guarda en formato .json
