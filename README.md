@@ -19,3 +19,5 @@ Este repositorio contiene códigos escritos en jupyter notebook para la visualiz
 ### Análisis
 
 - **crear_dataframe :** Crea dataframe con las boyas y escenarios especificados, se guarda en formato .json
+
+- **analisis_resultados_hysea :** 
