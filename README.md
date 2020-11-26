@@ -4,7 +4,7 @@
 
 <h2 align="center">tsunami warning</h2>
 
-Este repositorio contiene códigos escritos en jupyter notebook para la visualización y análisis de resultados obtenidos mediante la simulación de distintos escenarios de propagación de tsunamis con el software HySea. Se analizan series de tiempo de boyas artificiales y mapas de inundación. 
+Este repositorio contiene códigos escritos en jupyter notebook para la crear un dataframe a partir de series de tiempo en formato .nc, resulatdo de escenarios generados con el software HySea, el cual sera utilizado en la calibración de modelos sequence to sequence con tecnicas de deep Learning. Posterios visualización y análisis de resultados. 
 ## Descripción Archivos.
 
 ### Visualización
